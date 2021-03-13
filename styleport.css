@@ -1,0 +1,66 @@
+body
+{
+background-color: green;
+}
+#two
+{
+	
+	padding-bottom:;
+	height: 40%;
+	width: 20%;
+}
+h1
+{
+	padding-top:5%;
+	padding-left: 25%;
+	
+	font-weight: bolder;
+	color: black;
+}
+#menu
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+
+}
+#items
+{
+	float: left;
+}
+a:link, a:visited
+{
+	display: block;
+	width: 160px;
+	font-weight: bold;
+	color: white;
+	background-color: #000000;
+	text-align: center;
+	padding: 4px;
+	text-decoration: none;
+}
+a:hover, a:active
+{
+	color: green;
+}p
+{
+font-weight: bold;
+}
+#footer
+{
+text-align: center;
+padding-top: 30px;
+}
+#r1
+{
+	padding-left: 35%;
+}
+#r2
+{
+	padding-left: 35%;
+}
+li{
+
+	font-weight: bold;
+}
